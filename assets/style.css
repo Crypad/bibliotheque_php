@@ -1,0 +1,14 @@
+#formulaire {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    
+}
+
+#formulaire button {
+    margin-top: 1rem;
+}
